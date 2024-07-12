@@ -1,7 +1,6 @@
 # Decipher-text
-<div class="center">
-    <p>Live demo: <a href="https://text-wheat-xi.vercel.app/">https://text-wheat-xi.vercel.app/</a></p>
-</div>
+
+<p>Live demo: <a href="https://text-wheat-xi.vercel.app/">https://text-wheat-xi.vercel.app/</a></p>
 
 
 Use the following code to build a text deciphering effect.
@@ -22,3 +21,5 @@ And back to this⬇️!
 
 To change the text being displayed, simply change the words in line 73 on index.html. Note that you will have to copy the code elsewhere before being able to edit it. 
 `<h1 data-value="INSERT TEXT HERE">INSERT TEXT HERE</h1>`
+
+Leave a ⭐ for this project if this is helpful.
